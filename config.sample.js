@@ -1,4 +1,4 @@
-const port = 1880;
+const port = 1881;
 const key = "YOUR_KEY";
 
 const rooms = [];
