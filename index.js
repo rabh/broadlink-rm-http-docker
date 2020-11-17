@@ -1,7 +1,7 @@
 "use strict";
 
 const BroadlinkServer = require('broadlink-rm-http');
-const config = require('./config');
+const config = require('../config/config');
 
 const { port, key, rooms, commands } = config;
 
